@@ -1,0 +1,13 @@
+
+Clone project -  https://github.com/Sakhumzi606/DigiOutsource.git
+
+How to run tests
+---------------------------
+Open in Visual Studio
+
+- Under the Explorer window
+- Open UnitTest folder
+- Open unit class
+- Right-Click and Select 'Run Test'
+
+Reports Folder - DigiOutsource\DigiOutsource\AutomationTestResults

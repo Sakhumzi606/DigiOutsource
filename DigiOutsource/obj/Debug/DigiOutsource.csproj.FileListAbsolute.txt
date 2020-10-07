@@ -1,0 +1,7 @@
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\obj\Debug\DigiOutsource.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\bin\Debug\DigiOutsource.dll
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\bin\Debug\DigiOutsource.pdb
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\bin\Debug\WebDriver.dll
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\bin\Debug\WebDriver.xml
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\obj\Debug\DigiOutsource.dll
+C:\Users\User\Documents\PlayingAround\DigiOutsource\DigiOutsource\obj\Debug\DigiOutsource.pdb
